@@ -1,0 +1,105 @@
+/* CSS BY Ali Castro */
+/* IMPORTED FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap');
+/* CSS RESET */
+
+body{
+    font-family: Inter;
+    background:#484FB7;
+    border-left: 10em;
+    border-right: 10em;
+    text-align: left;
+}
+
+header{
+text-align: center;
+}
+
+nav{
+    background-color: #E9BB57;
+    font-weight: bold;
+    text-align: center;
+    : white;
+}
+
+article{
+    color:#D9526F;
+
+}
+
+#menu{
+    color: #1E1E1E;
+    background-color:#E9BB57;
+}
+
+h1{
+    font-family: kavoon;
+    font-size: 3em;
+    color: white;
+    text-align: center;
+
+}
+
+nav h2{
+    font-size: 1.5em;
+}
+
+h2{
+    font-family: kavoon;
+    font-size: 2em;
+    color: white;
+}
+
+h3{
+    font-size: 1.5em;
+    color: #E9BB57;
+}
+
+h4{
+    font-size: 1.15em;
+    color:#484FB7;
+}
+
+p{
+    color: #1E1E1E;
+}
+
+div id="chooseus"{
+        background-color: #D9526F;
+}
+
+
+
+table{
+    align-content: center;
+    color: white;
+    th{
+        color:#1E1E1E;
+        background-color: #E9BB57;
+        border: 1em solid #E9BB57;
+    }
+    td{
+        color:#1E1E1E;
+        background-color:white;
+        border: 1em solid white;
+    }
+
+}
+
+/* ROOT VARIABLES */
+:root{
+    
+}
+/* GLOBAL STYLES (mobile first/small) */
+
+
+
+Colors
+Teal :#4CA7C0
+Purple: #484FB7
+Lavender: #6B8FE7
+Yellow: #E9BB57; 
+Pink:#D9526F;
+Dark-gray:#1E1E1E; 
+White:#ffffff; 
+
